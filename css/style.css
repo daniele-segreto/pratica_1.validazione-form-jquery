@@ -1,0 +1,19 @@
+.alert {
+    display: none;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.alert-red {
+    color: black;
+    background-color: rgb(255, 210, 210);
+    border-color: red;
+}
+
+.alert-green {
+    color: black;
+    background-color: rgb(210, 255, 210);
+    border-color: green;
+}
